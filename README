@@ -1,0 +1,5 @@
+This program is basically based on Supervised Learning algorithm.
+Note: You need to train your own hand dataset to the model by running "dataset_finger.py" to capture the hand signs more accurately
+this code basically maps on your fingers and thumb coordinates so make sure to capture your hand correctly
+do mention the file path where you stored the "dataset_(alphabet letter).csv" file to avoid filenotfound error
+Expecting a star for this ;)))
